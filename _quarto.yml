@@ -1,0 +1,42 @@
+project: 
+  type: book
+  output-dir: _book
+  
+book:
+  title: "The Fresh Graduate Toolkit"
+  subtitle: "Ultimate graduate guide by EU StudyAssist"
+  author: "Meshach Aderele"
+  chapters: 
+    - index.qmd
+    - career-planning.qmd
+    - job-hunting.qmd
+    - skill-dev.qmd
+    - fin-literacy.qmd     
+    - professional-etq.qmd
+    - health-wellness.qmd  
+    - life-growth.qmd     
+    - personal-brand.qmd
+    - ai.qmd             
+    - scholarship.qmd
+    - conclusion.qmd      
+    - final.qmd
+    
+  reader-mode: true
+  favicon: favicon.png
+  cover-image: cover.jpg
+  page-footer: 
+    left: |
+      The Fresh Graduate Toolkit by Meshach Aderele PhD
+    right: |
+      This book is the Property of EU StudyAssist
+  repo-url: https://github.com/EU-Study-Assist/grad-toolkit
+  repo-branch: main
+  
+format: 
+  html: 
+    theme: materia
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    callout-appearance: minimal
+    page-layout: full
