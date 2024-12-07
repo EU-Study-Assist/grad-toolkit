@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 grad-toolkit.Rproj
+_book/
+*.html
