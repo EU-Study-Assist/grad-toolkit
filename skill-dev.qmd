@@ -1,0 +1,75 @@
+# Skill Development
+
+## Identifying In-Demand Skills
+1. **Research Industry Trends**
+
+    - Explore industry reports and job boards to understand the most sought-after skills.
+    - Common areas of demand: Product / Project Management, Software Engineering, Data analysis, Programming (Java, Javascript, Ruby, R, Python, SQL), Product Design, Digital Marketing, Communication etc..
+
+2. **Seek Advice from Professionals**
+
+    - Connect with industry experts or mentors to learn which skills are crucial in your chosen field.
+
+3. **Analyze Job Descriptions**
+
+    - Review postings for roles you’re interested in to identify recurring skills and qualifications.
+
+
+## Upskilling with Online Courses
+1. **Choose the Right Platform**
+
+    - **Technical Skills**: Coursera, Udemy, edX.
+    - **Creative Skills**: Skillshare, Canva Design School.
+    - **Professional Skills**: LinkedIn Learning, Harvard Online.
+
+2. **Focus on Certifications**
+
+    - Platforms like Google (Analytics, Digital Marketing) and Microsoft (Azure, Excel) offer certifications that stand out to employers.
+
+3. **Set a Schedule**
+
+    - Dedicate a few hours weekly to completing courses or practicing skills.
+
+4. **Practical Application**
+
+    - Supplement learning by working on projects or freelancing to gain real-world experience.
+
+5. **Guided Training Recommendations**
+
+    - [EU StudyAssist Bootcamps](https://www.eustudyassist.com/courses)
+    - [Altschool Africa](https://altschoolafrica.com/)
+
+
+## Technical vs. Soft Skills
+1. **Technical Skills**
+
+    - Hard skills specific to your job function: programming, data analysis, graphic design, etc.
+    - Tools: Learn software like Excel, Tableau, or Adobe Creative Suite.
+
+2. **Soft Skills**
+
+    - Universal skills like teamwork, adaptability, and problem-solving.
+    - Development: Join clubs, participate in group projects, or take communication workshops.
+
+3. **Balance Both**
+
+    - A mix of technical proficiency and interpersonal abilities creates a well-rounded professional.
+
+## Time Management and Productivity Tools
+1. **Prioritize Tasks**
+
+    - Use methods like Eisenhower Matrix or “Eat the Frog” (tackle the hardest task first).
+
+2. **Leverage Tools**
+
+    - Task Management: Trello, Asana, or Notion.
+    - Time Tracking: Toggl or Clockify.
+    - Focus Boosters: Pomodoro Timer, Focus@Will.
+
+3. **Set Clear Goals**
+
+    - Break down tasks into actionable steps and set deadlines.
+
+4. **Evaluate and Adjust**
+
+    - Regularly review your productivity to identify and eliminate inefficiencies.

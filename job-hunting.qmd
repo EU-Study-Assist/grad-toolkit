@@ -1,0 +1,127 @@
+# Job Hunting Essentials
+
+## Understanding the Difference Between a CV and a Resume
+
+1. **CV (Curriculum Vitae):**
+A comprehensive document detailing your academic background, professional experience, skills, publications, and achievements. It is typically longer (2+ pages) and used for academic, research, or international roles.
+
+      - Best for: Academic, research, or specialized roles.
+      - Common sections: Education, Work Experience, Volunteer Experience, Publications, Awards, and Certifications.
+      
+2. **Resume:**
+A concise document (1-2 pages) tailored to a specific job application, emphasizing relevant skills, achievements, and work experience.
+
+    - Best for: Corporate or industry roles.
+    - Common sections: Professional  Summary, Skills, Experience, and Education.
+
+
+## Crafting an Effective CV
+1. **Focus on Organization**
+
+    - Start with contact information and a professional summary.
+    - Use clear headings: Education, Experience, Publications, and Skills.
+
+2. **Detail Academic and Professional Achievements**
+
+    - Include dates, institutions, and specific accomplishments.
+    - For research roles, include publications, projects, and presentations.
+
+3. **Highlight Skills and Certifications**
+
+    - Mention technical and soft skills relevant to the role.
+    - Include language proficiency or software expertise.
+
+
+## Writing a Professional Resume
+1. **Tailor to the Job Description**
+
+    - Use keywords from the job posting to highlight relevant skills and experiences.
+
+2. **Use a Clear Structure**
+
+    - Include sections: Contact Information, Summary, Experience, Education, and Skills.
+    - Keep formatting consistent with bullet points and bold headings.
+
+3. **Quantify Achievements**
+
+    - Instead of "Managed a team," write "Managed a team of 10 to deliver a project two weeks ahead of schedule."
+
+4. **Keep it Concise**
+
+    - Limit to one page if possible; two pages for experienced candidates.
+
+## Creating a Winning Cover Letter
+1. **Personalize Each Application**
+
+    - Address the hiring manager by name if possible.
+
+2. **Structure Your Letter**
+
+    - **Opening Paragraph**: Mention the position and why you’re interested.
+    - **Middle Paragraphs**: Highlight relevant skills and experiences.
+    - **Closing Paragraph**: Express enthusiasm and include a call to action.
+
+3. **Be Authentic**
+
+    - Let your personality show while maintaining professionalism.
+
+## Building a Professional LinkedIn Profile
+1. **Complete Your Profile**
+
+    - Add a professional photo, an engaging headline, and a detailed summary.
+
+2. **Highlight Achievements**
+
+    - Use the experience section to list accomplishments with quantifiable results.
+
+3. **Engage with Content**
+
+    - Share posts, comment on relevant topics, and connect with industry professionals.
+
+4. **Request Recommendations**
+
+    - Ask for endorsements from professors, managers, or colleagues.
+
+
+## Searching for Job Opportunities
+1. **Job Boards and Platforms**
+
+    - Use sites like LinkedIn, Glassdoor, and Indeed for tailored searches. Another unspoken one is twitter (X). Go to twitter search and type the job you are looking for like this “Data Scientist #job”. Just change the Data Scientist to your interest.
+
+2. **Company Websites**
+
+    - Check the career pages of companies you're interested in.
+
+3. **Leverage Your Network**
+
+    - Inform connections about your job search; referrals often lead to interviews.
+
+4. **Attend Career Fairs**
+
+    - These are excellent venues to meet recruiters and learn about openings.
+
+
+## Tips for Acing Job Interviews
+1. **Research the Company**
+
+    - Understand its mission, values, products, and industry position.
+
+2. **Practice Common Questions**
+
+    - Prepare for behavioral questions like, “Tell me about a time you faced a challenge.”
+
+3. **Showcase Your Skills**
+
+    - Use the STAR method (Situation, Task, Action, Result) to answer situational questions.
+
+4. **Dress Professionally**
+
+    - Choose attire that aligns with the company culture.
+
+5. **Follow Up**
+
+    - Send a thank-you email within 24 hours of the interview to express appreciation.
+
+## Recommendations to Learn More
+- [Write an Incredible Resume (Yotube Video by Jeff Su)](https://www.youtube.com/watch?v=Tt08KmFfIYQ&pp=ygUKQ1Ygd3JpdGluZw%3D%3D)
+- [How to Write A CV (Youtube Video by CareerVidz)](https://www.youtube.com/watch?v=CaeUwaaeGpg&pp=ygUKQ1Ygd3JpdGluZw%3D%3D)
