@@ -20,7 +20,9 @@ book:
     - scholarship.qmd
     - conclusion.qmd      
     - final.qmd
-    
+  
+  search: true
+  downloads: [pdf]
   reader-mode: true
   favicon: favicon.png
   cover-image: cover.jpg
@@ -40,3 +42,4 @@ format:
     toc-location: left
     callout-appearance: minimal
     page-layout: full
+  pdf: default
