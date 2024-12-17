@@ -4,5 +4,6 @@
 .Ruserdata
 grad-toolkit.Rproj
 _book/
+docs/
 *.html
 /.quarto/
