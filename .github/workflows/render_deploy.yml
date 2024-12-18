@@ -21,6 +21,12 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Install TinyTeX
+        run: |
+          curl -fsSL https://yihui.org/tinytex/install-unx.sh | sh
+          export PATH=$HOME/.TinyTeX/bin:$PATH
+          
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
         with:
