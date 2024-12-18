@@ -25,9 +25,10 @@ jobs:
       - name: Install TinyTeX
         run: |
           curl -fsSL https://yihui.org/tinytex/install-unx.sh | sh
-          export PATH=$HOME/.TinyTeX/bin:$PATH
-          tlmgr update --self --all
-          tlmgr install \
+          echo "export PATH=$HOME/.TinyTeX/bin:$PATH" >> $GITHUB_ENV
+          source $GITHUB_ENV
+          ~/.TinyTeX/bin/tlmgr update --self --all
+          ~/.TinyTeX/bin/tlmgr install \
             koma-script \
             xetex \
             fontspec \
