@@ -24,22 +24,10 @@ jobs:
 
       - name: Install TinyTeX
         run: |
-          curl -fsSL https://yihui.org/tinytex/install-unx.sh | sh -s - --admin
+          curl -fsSL https://yihui.org/tinytex/install-unx.sh | sh
           echo "export PATH=$HOME/.TinyTeX/bin/x86_64-linux:$PATH" >> $GITHUB_ENV
-          echo "TEXINPUTS=.:$TEXINPUTS" >> $GITHUB_ENV
-          echo "TEXMFHOME=$HOME/texmf" >> $GITHUB_ENV
           source $GITHUB_ENV
-          ~/.TinyTeX/bin/x86_64-linux/tlmgr update --self --all
-          ~/.TinyTeX/bin/x86_64-linux/tlmgr install \
-            koma-script \
-            xetex \
-            fontspec \
-            babel \
-            times \
-            graphics \
-            grfext \
-            fancyhdr \
-            longtable
+          tlmgr install koma-script xetex
           
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
