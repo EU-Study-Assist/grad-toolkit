@@ -26,6 +26,17 @@ jobs:
         run: |
           curl -fsSL https://yihui.org/tinytex/install-unx.sh | sh
           export PATH=$HOME/.TinyTeX/bin:$PATH
+          tlmgr update --self --all
+          tlmgr install \
+            koma-script \
+            xetex \
+            fontspec \
+            babel \
+            times \
+            graphics \
+            grfext \
+            fancyhdr \
+            longtable
           
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
